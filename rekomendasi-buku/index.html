@@ -23,16 +23,16 @@
 <body>
     <div id="app">
     <header>
-        <h1>Rekomendasi buku</h1>
-		<h2>Ilmu masih terlalu banyak yang belum digali,
-			puas belajar di sekolah ngga akan membawa kemana-mana. Coba mulai baca buku, banyak hal yang bisa dan harus berubah.</h2>
+        <h2>Rekomendasi buku</h2>
+		<p>Ilmu masih terlalu banyak yang belum digali,
+			puas belajar di sekolah ngga akan membawa kemana-mana. Coba mulai baca buku, banyak hal yang bisa dan harus berubah.</p>
     </header>
 
     <section>
         <button v-on:click="sortByDate">Urut dari terakhir dibaca</button>
         <ul id="items">
           <li v-for="book in books">
-            <h2 class='item-title'> {{ book.title }}</h2>
+            <h3 class='item-title'> {{ book.title }}</h3>
             <p> {{ book.desc }} </p>
 			Date read: <span> {{book.date}} </span>
 			<hr>
