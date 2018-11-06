@@ -6,15 +6,27 @@
     <description>Recent content on Hilman Ramadhan | Hilmanrdn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
-    <lastBuildDate>Tue, 06 Nov 2018 13:13:04 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 06 Nov 2018 09:11:48 +0000</lastBuildDate>
     
 	<atom:link href="https://hilman.space/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>proses belajar</title>
+      <link>https://hilman.space/blog/proses-belajar/</link>
+      <pubDate>Tue, 06 Nov 2018 09:11:48 +0000</pubDate>
+      
+      <guid>https://hilman.space/blog/proses-belajar/</guid>
+      <description>Belajar cara belajar sangat penting, ini skill native yang harus kamu punya.
+Jangan pura-pura sudah tahu semuanya, Kosongkan teko, biar bisa diisi “Jangan membodohi diri sendiri dan kamu adalah orang yang paling mudah untuk dibodohi” - Richard Feynman
+Hal yang kelihatannya ngga mungkin, coba lihat lagi seperti puzzle, bagi ke bagian-bagian kecil, selesaikan satu per satu, tulis di kertas atau laptop bagian2nya.
+Kalau ngga hafal, jangan stress, Menghafal bukan tujuan. Tapi mengerti.</description>
+    </item>
+    
+    <item>
       <title>Bagaimana Website Ini Dibuat</title>
       <link>https://hilman.space/blog/bagaimana-website-ini-dibuat/</link>
-      <pubDate>Tue, 06 Nov 2018 13:13:04 +0800</pubDate>
+      <pubDate>Tue, 06 Nov 2018 05:13:04 +0000</pubDate>
       
       <guid>https://hilman.space/blog/bagaimana-website-ini-dibuat/</guid>
       <description>Website ini dibuat menggunakan Hugo, framework open-source untuk membuat website statis.
