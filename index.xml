@@ -31,6 +31,7 @@ Kalau ngga hafal, jangan stress, Menghafal bukan tujuan. Tapi mengerti.</descrip
       <guid>https://hilman.space/blog/bagaimana-website-ini-dibuat/</guid>
       <description>Website ini dibuat menggunakan Hugo, framework open-source untuk membuat website statis.
 Hostingnya menggunakan service gratis dari Github Pages
+Untuk memudahkan saya mengupdate konten, saya memakai bantuan service CMS static forestry
 Ingat, tool tidak penting, yang penting adalah karya kamu.</description>
     </item>
     
