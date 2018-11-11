@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hilman.space/blog/aplikasi-tool-yang-saya-gunakan/</loc>
+    <lastmod>2018-11-11T07:35:24+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hilman.space/blog/bagaimana-cara-membuat-startup/</loc>
     <lastmod>2018-11-09T09:42:23+00:00</lastmod>
   </url>
@@ -74,7 +79,7 @@
   
   <url>
     <loc>https://hilman.space/blog/</loc>
-    <lastmod>2018-11-09T09:42:23+00:00</lastmod>
+    <lastmod>2018-11-11T07:35:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -85,7 +90,7 @@
   
   <url>
     <loc>https://hilman.space/</loc>
-    <lastmod>2018-11-09T09:42:23+00:00</lastmod>
+    <lastmod>2018-11-11T07:35:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
